@@ -1,4 +1,8 @@
-2024/08/12-18:27:59.068 5b84 Reusing MANIFEST D:\pythonProject\testDis\User Data\Default\Local Storage\leveldb/MANIFEST-000001
-2024/08/12-18:27:59.096 5b84 Recovering log #3139
-2024/08/12-18:27:59.104 5b84 Reusing old log D:\pythonProject\testDis\User Data\Default\Local Storage\leveldb/003139.log 
-2024/08/12-18:27:59.105 5b84 Delete type=0 #3
+2024/08/12-19:09:16.922 3eb0 Reusing MANIFEST D:\pythonProject\testDis\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2024/08/12-19:09:16.929 3eb0 Recovering log #3139
+2024/08/12-19:09:16.929 3eb0 Level-0 table #3142: started
+2024/08/12-19:09:16.992 3eb0 Level-0 table #3142: 16852 bytes OK
+2024/08/12-19:09:16.993 3eb0 Recovering log #3142
+2024/08/12-19:09:16.998 3eb0 Reusing old log D:\pythonProject\testDis\User Data\Default\Local Storage\leveldb/003142.log 
+2024/08/12-19:09:17.003 3eb0 Delete type=0 #3139
+2024/08/12-19:09:17.003 3eb0 Delete type=2 #3143
