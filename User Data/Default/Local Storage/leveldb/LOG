@@ -1,0 +1,5 @@
+2024/08/12-18:28:12.804 21e0 Reusing MANIFEST D:\pythonProject\testDis\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2024/08/12-18:28:12.807 21e0 Recovering log #3139
+2024/08/12-18:28:12.812 21e0 Reusing old log D:\pythonProject\testDis\User Data\Default\Local Storage\leveldb/003139.log 
+2024/08/12-18:28:19.205 5264 Level-0 table #3143: started
+2024/08/12-18:28:19.242 5264 Level-0 table #3143: 16852 bytes OK
